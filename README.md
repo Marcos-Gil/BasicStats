@@ -15,5 +15,5 @@ functions.py
 Launching instructions:
 -----------------------
 
-1. Open terminal and traverse to folder when basicStats.py is located
+1. Open terminal and traverse to folder where basicStats.py is located
 2. Run basicStats.py and follow instructions on screen, inputting numbers until a negative number is entered. Afterwards the above stats will be computed
